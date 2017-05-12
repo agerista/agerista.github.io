@@ -33,6 +33,20 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
+
+          {% if site.freeCodeCamp_username %}
+          <li>
+            {% include icon-freeCodeCamp.html username=site.freeCodeCamp_username %}
+          </li>
+          {% endif %}
+
+          {% if site.linkedIn_username %}
+          <li>
+            {% include icon-linkedIn.html username=site.linkedIn_username %}
+          </li>
+          {% endif %}
+
+
         </ul>
       </div>
 
