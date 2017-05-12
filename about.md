@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a recent graduate of Hackbright Academy. Before attending Hackbright, I was a Fitness Consultant, managing fitness studios, teaching teachers how to teach, and teaching many different genres of classes. I also piloted an online yoga class. That class lead me to think about how to reach out to more people to change their lives through fitness. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Around the same time, I was introduced to programming through the Hour of Code. It quickly became clear that coding could be the answer to my reach problem. I followed my curiosity through many tutorials and online classes and ended up at Hackbright. 
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+During my time at Hackbright, I developed a love of databases, data structures and recursion. I am excited to continue learning new technologies and to strengthen my current skills in my new job as a full stack engineer.
+
+Interests: finding the best cafe, collecting plants, wondering around art museums 
