@@ -31,15 +31,6 @@ freeCodeCamp_username: agerista
 markdown: kramdown
 theme: minima
 
-#Headers
-defaults:
-    -
-    scope:
-        path: ""
-        type: "posts"
-    values:
-        author: "Amanda"
-
 gems:
   - jekyll-feed
 exclude:
