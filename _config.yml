@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Amanda Crawford
+site.subtitle: Software Engineer
 email: amandacrawfordcodes@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -29,6 +30,16 @@ freeCodeCamp_username: agerista
 # Build settings
 markdown: kramdown
 theme: minima
+
+#Headers
+defaults:
+    -
+    scope:
+        path: ""
+        type: "posts"
+    values:
+        author: "Amanda"
+
 gems:
   - jekyll-feed
 exclude:
