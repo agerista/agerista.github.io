@@ -24,8 +24,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://agerista.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: acrawfordcodes
 github_username:  agerista
-linkedIn_username: amandacrawfordcodes
-freeCodeCamp_username: agerista
+linkedin_username: amandacrawfordcodes
+freecodecamp_username: agerista
 
 # Build settings
 markdown: kramdown
