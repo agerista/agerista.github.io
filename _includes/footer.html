@@ -36,15 +36,18 @@
 
           {% if site.freecodecamp_username %}
           <li>
-            {% include icon-freeCodeCamp.html username=site.freecodeCcmp_username %}
+            <a href="https://freecodecamp.com/agerista{{ site.linkedin_username }}">
+              <i class="fa fa-free-code-camp" aria-hidden="true"></i>Free Code Camp
+            </a>
           </li>
           {% endif %}
 
           {% if site.linkedin_username %}
           <li>
-            {% include icon-linkedin.html username=site.linkedin_username %}
+            <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+              <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
           </li>
-          {% endif %}
 
 
         </ul>
