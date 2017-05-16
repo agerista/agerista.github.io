@@ -46,10 +46,6 @@ their ideas, which made the atmosphere all the more convivial.
 
 ## Starting Awkward Hotline
 
-    -setting up
-    -learning twilio
-    -getting things working
-
 After everyone was done requesting collaborators and sharing ideas, it was time 
 to officially set to work on our project. Renee and I set off in the fury of 
 coding that is planning and breaking down the project into smaller pieces. We then
