@@ -4,16 +4,16 @@ title:  "Stupid Hackathon"
 date:   2017-05-05 00:29:18 +0000
 categories: blog post
 ---
-# Stupid Sh*! and Terrible Ideas That No One Needs Hackathon
+## Stupid Sh*! and Terrible Ideas That No One Needs Hackathon
 
-## Noisebridge pre-party with Godwaffle Noise pancakes
+# Noisebridge pre-party with Godwaffle Noise pancakes
 
 The hackathon started with a pre-party with music by Godwaffle Noise Pancakes, 
 which is a noise band and waffles, er pancakes, er both, I am not really sure, 
 I didn't check out the food. It was definitely loud! Renee, my collaborator on 
 this project, and I used the time to brainstorm. 
 
-## Awkward Silence Hotline is Born
+# Awkward Silence Hotline is Born
 
 We thought a lot about how technology has evolved and how 
 communication really seems to flow so easily these days. With all of the options 
@@ -25,7 +25,7 @@ Awkward Silence Hotline. Awkward Silence Hotline uses Twilio to allow  a user to
 call a number, pick from a list of customized options, and basque in the 
 gloriousness of the artisianal awkward silence that follows.
 
-## Hackathon Kickoff
+# Hackathon Kickoff
     
 Before we knew it, the concert was over and it was time for the hackathon to 
 officially start. There were some stupid announcements, namely about spaces that
@@ -44,7 +44,7 @@ so many different directions. This hackathon was particularly great because the
 ideas were plentiful and awful. Many people encouraged other hackers to steal 
 their ideas, which made the atmosphere all the more convivial.
 
-## Starting Awkward Hotline
+# Starting Awkward Hotline
 
 After everyone was done requesting collaborators and sharing ideas, it was time 
 to officially set to work on our project. Renee and I set off in the fury of 
@@ -81,7 +81,7 @@ She can tell you all about her process there. The end goal for her was to create
 a text bubble with the three dots to show that the person on the other end is typing.
 We thought that this would be the equivalent of awkward silence for texting.
 
-## Project Presentations
+# Project Presentations
 
 Before we knew it, it was time to head over to [Monument](http://www.monument.house/)
 for the final presentations. We were blown away by all of the terrible ideas and
